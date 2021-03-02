@@ -7,4 +7,5 @@
 * [L4. Data Wrangling](l4.-data-wrangling.md)
 * [L5. Command-line Environment](l5.-command-line-environment.md)
 * [L6. Version Control \(Git\)](l6.-version-control-git.md)
+* [L7. Debugging and Profiling](l7.-debugging-and-profiling.md)
 
