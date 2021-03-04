@@ -8,4 +8,5 @@
 * [L5. Command-line Environment](l5.-command-line-environment.md)
 * [L6. Version Control \(Git\)](l6.-version-control-git.md)
 * [L7. Debugging and Profiling](l7.-debugging-and-profiling.md)
+* [L8. Metaprogramming](l8.-metaprogramming.md)
 
