@@ -9,4 +9,5 @@
 * [L6. Version Control \(Git\)](l6.-version-control-git.md)
 * [L7. Debugging and Profiling](l7.-debugging-and-profiling.md)
 * [L8. Metaprogramming](l8.-metaprogramming.md)
+* [L9. Security and Cryptography](l9.-security-and-cryptography.md)
 
