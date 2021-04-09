@@ -11,4 +11,5 @@
 * [L8. Metaprogramming](l8.-metaprogramming.md)
 * [L9. Security and Cryptography](l9.-security-and-cryptography.md)
 * [L10. Potpourri](l10.-potpourri.md)
+* [L10. Q&A](l10.-q-and-a.md)
 
